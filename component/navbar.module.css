@@ -1,0 +1,33 @@
+.navbar {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.first_container>ul {
+    display: flex;
+}
+
+.first_container>ul>li {
+    list-style: none;
+    margin-right: 20px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.second_container>img {
+    width: 30px;
+}
+
+.social {
+    margin-right: 20px;
+
+}
+
+.third_container>link>image {
+    text-decoration: none;
+}
