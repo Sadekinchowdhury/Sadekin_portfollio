@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.txt_container {
+    width: 250px;
+}
+
+.btn {
+    background-color: #b8e0e5;
+    padding: 10px 20px;
+    border: none;
+    margin: 4px;
+    border-radius: 5px;
+}
